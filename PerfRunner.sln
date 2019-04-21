@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perf", "Perf.csproj", "{BE6AECF7-2469-4AF6-9CDD-11F4E52387C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfRunner", "PerfRunner\PerfRunner.csproj", "{3726827F-DCAA-4078-B93E-8BC89B76109C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6AECF7-2469-4AF6-9CDD-11F4E52387C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6AECF7-2469-4AF6-9CDD-11F4E52387C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6AECF7-2469-4AF6-9CDD-11F4E52387C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6AECF7-2469-4AF6-9CDD-11F4E52387C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3726827F-DCAA-4078-B93E-8BC89B76109C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3726827F-DCAA-4078-B93E-8BC89B76109C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3726827F-DCAA-4078-B93E-8BC89B76109C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3726827F-DCAA-4078-B93E-8BC89B76109C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737F2496-2CA7-478A-847F-DBAF8F070004}
+	EndGlobalSection
+EndGlobal
